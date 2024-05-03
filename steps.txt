@@ -1,0 +1,25 @@
+
+Name-Mayank singh bora
+Batch-45
+sap-500123391
+roll no-R2142231514
+program-Btech.cse
+
+steps to play my word guessing game
+
+step1-player1-enter your name
+      player2-enter your name
+
+step2-player 1 guess the game with less wrong guesses
+      -type any letter
+      -your selected letter may be in the first place or end or somewhere in between 
+      -guess the word accordingly
+
+step3-player 2 guess the game with less wrong guesses
+      -type any letter
+      -your selected letter may be in the first place or end or somewhere in between 
+      -guess the word accordingly
+
+the one who guess his/her word with less number of guesses will win.
+
+THANKYOU
